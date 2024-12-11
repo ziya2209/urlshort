@@ -1,0 +1,4 @@
+- path: "/insta"
+  url: "https://www.instagram.com"
+- path: "/google"
+  url: "https://www.google.com"
